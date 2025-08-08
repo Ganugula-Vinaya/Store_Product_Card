@@ -1,3 +1,7 @@
+This project is a simple product card app built using Angular. 
+It uses Angular’s component-based architecture, along with property binding to display product details and event binding for user interaction (like "Add to Cart"). 
+The app is styled with CSS and developed using Visual Studio Code. It runs locally using the Angular CLI (ng serve), making it easy to test and update during development.
+
 # ProductCardApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.5.
@@ -57,3 +61,4 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+

@@ -1,0 +1,7 @@
+<div class="card">
+  <h2>{{ bookName }}</h2>
+  <p>Price: ₹{{ bookPrice }}</p>
+  <button (click)="addToCart()" [disabled]="isAddedToCart">
+    {{ isAddedToCart ? 'Added to Cart' : 'Add to Cart' }}
+  </button>
+</div>
